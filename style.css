@@ -1,10 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KAAVYA SHREE RESEARCH AND FASHION TECH PRIVATE LIMITED</title>
+<link rel="stylesheet" href="style.css">
+</head>
 
-body{font-family:Arial,sans-serif;margin:0;background:#faf8f2;color:#222}
-.hero{text-align:center;padding:40px;background:#5A0E16;color:white}
-.logo{max-width:220px}
-h1{margin:10px 0;font-size:3rem}
-h2{color:#D4A64A}
-section{padding:40px;max-width:1100px;margin:auto}
-.cards{display:flex;gap:20px;flex-wrap:wrap}
-.card{flex:1;padding:20px;background:white;border:1px solid #ddd;border-radius:10px}
-footer{text-align:center;padding:20px;background:#5A0E16;color:white}
+<body>
+
+<header class="hero">
+    <img src="logo.png" class="logo" alt="KAAVYA SHREE Logo">
+    <h1>KAAVYA SHREE</h1>
+    <h2>RESEARCH AND FASHION TECH PRIVATE LIMITED</h2>
+    <p>Sharp | Deep | Broader | Solutions</p>
+</header>
+
+<section id="about">
+    <h2>About Us</h2>
+
+    <p>
+        Kaavya Shree Research and Fashion Tech Private Limited is a research-driven
+        firm committed to the improvement of innovation in interior fashion,
+        textile materials, sustainable design technologies and integrated
+        interior solutions.
+    </p>
+
+    <p>
+        Based on our concept,
+        <strong>"Sharp | Deep | Broader | Solutions"</strong>,
+        we combine scientific research, innovative design thinking and
+        technological excellence to produce products and solutions that respond
+        to the evolving demands of modern living and commercial environments.
+    </p>
+
+    <p>
+        We explore advanced textile materials, performance textiles,
+        eco-friendly techniques and intelligent design solutions that enhance
+        usefulness, aesthetics and sustainability. We are committed to bridging
+        the gap between traditional craftsmanship and modern technologies
+        through ongoing research and development, generating creative solutions
+        that are both practical and future-proof.
+    </p>
+
+    <p>
+        At Kaavya Shree Research and Fashion Tech Private Limited, we believe in
+        sustainability. We are dedicated to encouraging ethical material
+        choices, resource-efficient manufacturing processes and environmentally
+        sound design approaches.
+    </p>
+
+    <p>
+        We integrate sustainable technologies with interior and fashion
+        applications to help create healthier, more resilient and aesthetically
+        inspiring spaces.
+    </p>
+
+    <p>
+        Our diversified know-how enables us to operate in a broad range of
+        sectors including residential interiors, hospitality, commercial
+        spaces, lifestyle products and specialised textile applications.
+    </p>
+
+    <p>
+        We partner with industry, research, design, manufacturing and
+        institutional organisations to translate ideas into impactful solutions
+        for real-world challenges.
+    </p>
+
+    <p>
+        Driven by curiosity, innovation and a commitment to excellence,
+        Kaavya Shree Research and Fashion Tech Private Limited aims to be a
+        leading force in shaping the future of interior fashion and sustainable
+        design technology.
+    </p>
+
+    <p>
+        We believe meaningful research, creative vision and technological
+        advancement can together create smarter materials, better environments
+        and lasting value for businesses, communities and society.
+    </p>
+</section>
+
+<section>
+    <h2>Research Areas</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>Interior Fashion Research</h3>
+        </div>
+
+        <div class="card">
+            <h3>Interior Fashion Fabrics</h3>
+        </div>
+
+        <div class="card">
+            <h3>Interior Design & Materials</h3>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Products & Services</h2>
+
+    <ul>
+        <li>Upholstery Fabrics</li>
+        <li>Decorative Textiles</li>
+        <li>Interior Consultancy</li>
+        <li>Turnkey Interior Solutions</li>
+        <li>Smart Textile Products</li>
+    </ul>
+</section>
+
+<section id="directors">
+    <h2>Board of Directors</h2>
+
+    <div class="director-container">
+
+        <div class="director-card">
+            <h3>RATHINASAMY SARAVANAN</h3>
+            <p>Director</p>
+        </div>
+
+        <div class="director-card">
+            <h3>DURAI SANTHOSH</h3>
+            <p>Director</p>
+        </div>
+
+    </div>
+</section>
+
+<section>
+    <h2>Contact</h2>
+
+    <p><strong>Phone:</strong> +91 9884413569</p>
+    <p><strong>Email:</strong> saravsanthosh9@gmail.com</p>
+    <p><strong>Address:</strong> 35A, 2nd St. Thirupathi Nagar, Valasaravakkam, Chennai - 600087</p>
+</section>
+
+<footer>
+    © 2026 KAAVYA SHREE RESEARCH AND FASHION TECH PRIVATE LIMITED
+</footer>
+
+</body>
+</html>
